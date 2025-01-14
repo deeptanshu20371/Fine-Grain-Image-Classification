@@ -69,11 +69,11 @@ ViT achieved the best performance across all cases, demonstrating its ability to
 
 ---
 
+## Project Report
+[View the Project Report](./DL_Project_Final.pdf)
+
 ## How to Use  
 ### Clone the Repository  
 ```bash
 git clone https://github.com/<your-username>/dog-breed-classification.git
 cd dog-breed-classification
-
-## Project Report
-[View the Project Report](./DL_Project_Final.pdf)
